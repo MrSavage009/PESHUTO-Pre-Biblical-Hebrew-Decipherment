@@ -1,8 +1,15 @@
-# פְּשׁוּטוֹ (Peshuto) • Scribal Concordance Explorer
+# Title: פְּשׁוּטוֹ (Peshuto) • Scribal Concordance Explorer
 
 An interactive computational philology tool and AI-engineered revisionist semantic engine designed to analyze translation shifts and reverse-engineer theological overlays in the biblical Hebrew lexicon.
 
 The framework is named after the classical term for the literal, unadorned, contextual sense of a text (*Peshuto shel Mikra* — פשוטו של מקרא). It strips away historical sectarian biases by leveraging large language models to re-evaluate Semitic roots through non-biblical comparative databases and rigorous contextual gap-fill analyses.
+
+<p align="center">
+  <a href="https://mrsavage009.github.io/PESHUTO-Pre-Biblical-Hebrew-Decipherment/">
+    <img src="https://img.shields.io/badge/PESHUTO_ENGINE-LIVE_DEMO-1b4d3e?style=for-the-badge&logo=google-gemini&logoColor=f5eedc" alt="Live Demo" />
+  </a>
+</p>
+
 
 ```
                   +-----------------------------------+
